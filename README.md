@@ -5,7 +5,7 @@ Jakob Mackanych (Team Leader) - eandersonflint@berkeley.edu
 
 Elan Trager - eitrager@berkeley.edu
 
-Shrija Malla - https://github.com/shrija-malla & shrija@berkeley.edu
+Shrija Malla - shrija@berkeley.edu
 
 Magaly Santos - magalysantos@berkeley.edu
 
