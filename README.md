@@ -1,4 +1,4 @@
-# EEP 153 Project 4 - Holbrook Working
+# EEP 153 Project 4 - Holbrook Working | Hacking Food & Nutrition
 
 ## Team Members
 Jakob Mackanych (Team Leader) - eandersonflint@berkeley.edu
