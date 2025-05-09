@@ -17,9 +17,9 @@ Mario Zhao - mario.zhao@berkeley.edu
 
 By understanding and visualizing the nutritional adequacy of Tanzanian diets, and researching nutritional outcomes in Tanzania’s historical, social, and political context, we have discovered that a large area for nutritional improvement in Tanzania is Vitamin A. Based on this finding we have developed a few policies:  
 
-1. Increasing the Vitamin A intake
-2. Using eggs as a method to increase Vitamin A intake
-3. Using technological methods in order to increase the natural Vitamin A content of eggs
+1. Blanket Vitamin A Subsidy - Increasing the Vitamin A intake
+2. Egg Subsidy - Using eggs as a method to increase Vitamin A intake
+3. Egg Enrichment Innovation - Using technological methods in order to increase the natural Vitamin A content of eggs
 
 ## Methods
 
